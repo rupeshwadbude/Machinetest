@@ -1,0 +1,27 @@
+.abc{
+    width: 100%;
+   
+
+}
+.xyz{
+    text-align: left;
+    margin-top: 5%;
+    box-shadow: 0 0 5px #ccc;
+    padding: 15px 10px;
+    width: 35%;
+    border: 1px solid black;
+}
+.btn0{
+    margin-left: 65%;
+    width: 30%;
+}
+ .btn1{
+    width: 30%;
+   margin-left: 4%;
+}
+.btn2{
+    width: 30%;
+    margin-left: 65%;
+    margin-top: -14%;
+}
+
